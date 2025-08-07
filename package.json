@@ -1,7 +1,7 @@
 {
-  "name": "mindinblue-hybrid-sales-funnel",
+  "name": "anna-rozkwitalska-psychology-funnel",
   "version": "1.0.0",
-  "description": "Mind in Blue Hybrid Sales Funnel Website",
+  "description": "Anna Rozkwitalska Psychology Services - Professional Hybrid Sales Funnel for Expats in Poland",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
