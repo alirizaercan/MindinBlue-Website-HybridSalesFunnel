@@ -339,7 +339,7 @@ Client is specifically seeking English-speaking psychological support in Poland.
               <p>Personal experience living, studying & working across multiple countries. Deep understanding of expat challenges, cultural adaptation, and identity transformation.</p>
             </div>
             <div className="feature-item">
-              <div className="feature-icon">�️</div>
+              <div className="feature-icon">💬</div>
               <h3>Multilingual Therapy Sessions</h3>
               <p>Professional therapy in English, Polish, Italian & Spanish. Online sessions worldwide + in-person appointments in Gdansk for maximum accessibility.</p>
             </div>
